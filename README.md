@@ -5,7 +5,7 @@
 
 | 🕐 IST | 🌐 UTC |
 |--------|--------|
-| `17 Mar 2026 — 12:32 PM IST` | `17 Mar 2026 — 07:02:40 UTC` |
+| `17 Mar 2026 — 10:07 PM IST` | `17 Mar 2026 — 16:37:35 UTC` |
 
 ---
 
@@ -13,11 +13,11 @@
 
 | Token | Price | 24h | Market Cap |
 |-------|-------|-----|-----------|
-| **BTC** | `$74,121.00` | 🟢 `+0.35%` | `$1481.83B` |
-| **ETH** | `$2,317.99` | 🟢 `+2.25%` | `$279.42B` |
-| **SOL** | `$93.92` | 🟢 `+0.42%` | `$53.66B` |
-| **SUI** | `$1.03` | 🔴 `-3.39%` | `$4.01B` |
-| **AERO** | `$0.3494` | 🟢 `+0.37%` | `$322.1M` |
+| **BTC** | `$74,087.00` | 🟢 `+0.89%` | `$1481.96B` |
+| **ETH** | `$2,324.43` | 🟢 `+1.79%` | `$280.54B` |
+| **SOL** | `$94.48` | 🟢 `+1.16%` | `$54.06B` |
+| **SUI** | `$1.02` | 🔴 `-3.04%` | `$3.99B` |
+| **AERO** | `$0.3383` | 🔴 `-3.52%` | `$311.9M` |
 
 ---
 
@@ -25,53 +25,23 @@
 
 ### 🇳🇵 Nepal &mdash; Kathmandu
 
-> ☁️ **Cloudy** &nbsp;·&nbsp; 🌡️ **21°C** *(feels 21°C)* &nbsp;·&nbsp; 💧 35% humidity &nbsp;·&nbsp; 🌬️ 7 km/h
-
-| | Today | Tomorrow |
-|---|---|---|
-| 🔺 High | 24°C | 27°C |
-| 🔻 Low  | 9°C | 10°C |
-| ☁️ Condition | Partly Cloudy  | Sunny |
+> ⚠️ Unavailable right now.
 
 ### 🇮🇳 India &mdash; New Delhi
 
-> 🌫️ **Haze** &nbsp;·&nbsp; 🌡️ **26°C** *(feels 25°C)* &nbsp;·&nbsp; 💧 48% humidity &nbsp;·&nbsp; 🌬️ 4 km/h
-
-| | Today | Tomorrow |
-|---|---|---|
-| 🔺 High | 33°C | 34°C |
-| 🔻 Low  | 19°C | 21°C |
-| ☁️ Condition | Sunny | Sunny |
+> ⚠️ Unavailable right now.
 
 ### 🇺🇸 USA &mdash; New York
 
-> 🌧️ **Light rain** &nbsp;·&nbsp; 🌡️ **7°C** *(feels 2°C)* &nbsp;·&nbsp; 💧 79% humidity &nbsp;·&nbsp; 🌬️ 35 km/h
-
-| | Today | Tomorrow |
-|---|---|---|
-| 🔺 High | 4°C | 5°C |
-| 🔻 Low  | -1°C | -4°C |
-| ☁️ Condition | Partly Cloudy  | Partly Cloudy  |
+> ⚠️ Unavailable right now.
 
 ### 🇦🇺 Australia &mdash; Sydney
 
-> ⛅ **Partly cloudy** &nbsp;·&nbsp; 🌡️ **25°C** *(feels 26°C)* &nbsp;·&nbsp; 💧 74% humidity &nbsp;·&nbsp; 🌬️ 16 km/h
-
-| | Today | Tomorrow |
-|---|---|---|
-| 🔺 High | 28°C | 22°C |
-| 🔻 Low  | 21°C | 21°C |
-| ☁️ Condition | Partly Cloudy  | Light rain shower |
+> ⚠️ Unavailable right now.
 
 ### 🇳🇬 Nigeria &mdash; Lagos
 
-> ☀️ **Sunny** &nbsp;·&nbsp; 🌡️ **31°C** *(feels 30°C)* &nbsp;·&nbsp; 💧 29% humidity &nbsp;·&nbsp; 🌬️ 9 km/h
-
-| | Today | Tomorrow |
-|---|---|---|
-| 🔺 High | 31°C | 32°C |
-| 🔻 Low  | 12°C | 13°C |
-| ☁️ Condition | Partly Cloudy  | Sunny |
+> ⚠️ Unavailable right now.
 
 ---
 
