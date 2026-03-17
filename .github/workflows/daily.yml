@@ -1,0 +1,41 @@
+name: 📊 Daily Market Dashboard
+
+on:
+  schedule:
+    - cron: '30 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: ⬇️ Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: pip install requests pytz
+
+      - name: 🔄 Generate dashboard
+        run: python generate.py
+
+      - name: 📝 Commit & Push
+        run: |
+          git config user.name  "dashboard-bot"
+          git config user.email "dashboard-bot@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Nothing changed"
+          else
+            git commit -m "📊 $(TZ='Asia/Kolkata' date '+%d %b %Y • 9:00 PM IST') | $(date -u '+%H:%M UTC')"
+            git push
+          fi
