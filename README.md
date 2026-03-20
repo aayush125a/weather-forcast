@@ -5,7 +5,7 @@
 
 | 🕐 IST | 🌐 UTC |
 |--------|--------|
-| `19 Mar 2026 — 09:43 PM IST` | `19 Mar 2026 — 16:13:07 UTC` |
+| `20 Mar 2026 — 09:32 PM IST` | `20 Mar 2026 — 16:02:20 UTC` |
 
 ---
 
@@ -13,11 +13,11 @@
 
 | Token | Price | 24h | Market Cap |
 |-------|-------|-----|-----------|
-| **BTC** | `$69,260.00` | 🔴 `-2.81%` | `$1387.30B` |
-| **ETH** | `$2,114.90` | 🔴 `-2.89%` | `$255.33B` |
-| **SOL** | `$87.49` | 🔴 `-1.71%` | `$50.06B` |
-| **SUI** | `$0.9460` | 🔴 `-3.11%` | `$3.70B` |
-| **AERO** | `$0.3185` | 🔴 `-1.79%` | `$295.3M` |
+| **BTC** | `$69,889.00` | 🟢 `+0.63%` | `$1396.13B` |
+| **ETH** | `$2,135.48` | 🟢 `+0.71%` | `$257.44B` |
+| **SOL** | `$88.91` | 🟢 `+1.44%` | `$50.80B` |
+| **SUI** | `$0.9604` | 🟢 `+1.34%` | `$3.74B` |
+| **AERO** | `$0.3219` | 🟢 `+0.76%` | `$297.5M` |
 
 ---
 
@@ -25,23 +25,53 @@
 
 ### 🇳🇵 Nepal &mdash; Kathmandu
 
-> ⚠️ Unavailable right now.
+> ⛈️ **Thunderstorm** &nbsp;·&nbsp; 🌡️ **13°C** *(feels 14°C)* &nbsp;·&nbsp; 💧 88% humidity &nbsp;·&nbsp; 🌬️ 5 km/h
+
+| | Today | Tomorrow |
+|---|---|---|
+| 🔺 High | 26°C | 13°C |
+| 🔻 Low  | 12°C | 7°C |
+| ☁️ Condition | Sunny | Moderate rain |
 
 ### 🇮🇳 India &mdash; New Delhi
 
-> ⚠️ Unavailable right now.
+> 🌫️ **Mist** &nbsp;·&nbsp; 🌡️ **18°C** *(feels 18°C)* &nbsp;·&nbsp; 💧 88% humidity &nbsp;·&nbsp; 🌬️ 12 km/h
+
+| | Today | Tomorrow |
+|---|---|---|
+| 🔺 High | 23°C | 30°C |
+| 🔻 Low  | 18°C | 17°C |
+| ☁️ Condition | Partly Cloudy  | Sunny |
 
 ### 🇺🇸 USA &mdash; New York
 
-> ⚠️ Unavailable right now.
+> ☀️ **Sunny** &nbsp;·&nbsp; 🌡️ **9°C** *(feels 7°C)* &nbsp;·&nbsp; 💧 54% humidity &nbsp;·&nbsp; 🌬️ 15 km/h
+
+| | Today | Tomorrow |
+|---|---|---|
+| 🔺 High | 19°C | 10°C |
+| 🔻 Low  | 0°C | 6°C |
+| ☁️ Condition | Sunny | Partly Cloudy  |
 
 ### 🇦🇺 Australia &mdash; Sydney
 
-> ⚠️ Unavailable right now.
+> ⛅ **Partly cloudy** &nbsp;·&nbsp; 🌡️ **22°C** *(feels 25°C)* &nbsp;·&nbsp; 💧 94% humidity &nbsp;·&nbsp; 🌬️ 4 km/h
+
+| | Today | Tomorrow |
+|---|---|---|
+| 🔺 High | 24°C | 24°C |
+| 🔻 Low  | 19°C | 20°C |
+| ☁️ Condition | Light rain shower | Patchy rain nearby |
 
 ### 🇳🇬 Nigeria &mdash; Lagos
 
-> ⚠️ Unavailable right now.
+> ☀️ **Clear** &nbsp;·&nbsp; 🌡️ **19°C** *(feels 19°C)* &nbsp;·&nbsp; 💧 48% humidity &nbsp;·&nbsp; 🌬️ 4 km/h
+
+| | Today | Tomorrow |
+|---|---|---|
+| 🔺 High | 35°C | 34°C |
+| 🔻 Low  | 14°C | 14°C |
+| ☁️ Condition | Sunny | Sunny |
 
 ---
 
