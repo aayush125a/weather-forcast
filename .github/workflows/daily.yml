@@ -1,41 +1,34 @@
-name: 📊 Daily Market Dashboard
+name: Daily World Time Update
 
 on:
   schedule:
-    - cron: '30 15 * * *'
-  workflow_dispatch:
+    # 9:00 AM IST = 3:30 AM UTC
+    - cron: "30 3 * * *"
+  workflow_dispatch:   # allows manual trigger from GitHub UI
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: ⬇️ Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: 🐍 Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: 📦 Install dependencies
-        run: pip install requests pytz
+      - name: Install dependencies
+        run: pip install pytz
 
-      - name: 🔄 Generate dashboard
+      - name: Generate README
         run: python generate.py
 
-      - name: 📝 Commit & Push
+      - name: Commit and push changes
         run: |
-          git config user.name  "dashboard-bot"
-          git config user.email "dashboard-bot@users.noreply.github.com"
+          git config --global user.name  "dashboard-bot"
+          git config --global user.email "dashboard-bot@users.noreply.github.com"
           git add README.md
-          if git diff --staged --quiet; then
-            echo "Nothing changed"
-          else
-            git commit -m "📊 $(TZ='Asia/Kolkata' date '+%d %b %Y • 9:00 PM IST') | $(date -u '+%H:%M UTC')"
-            git push
-          fi
+          git diff --cached --quiet || git commit -m "🕐 $(date +'%d %b %Y') — Daily time update"
+          git push
