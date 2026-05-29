@@ -1,6 +1,6 @@
 # 🕐 World Time Dashboard
 
-> 🌐 **UTC Time:** `2026-05-28 07:05:17 UTC`
+> 🌐 **UTC Time:** `2026-05-29 07:05:47 UTC`
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Country | Local Time | UTC Offset |
 |---------|-----------|------------|
-| 🇳🇵 Nepal | **Thursday, 28 May 2026  12:50 PM** | UTC+05:45 |
-| 🇮🇳 India | **Thursday, 28 May 2026  12:35 PM** | UTC+05:30 |
-| 🇦🇺 Australia | **Thursday, 28 May 2026  05:05 PM** | UTC+10:00 |
-| 🇺🇸 United States | **Thursday, 28 May 2026  03:05 AM** | UTC-04:00 |
-| 🇵🇭 Philippines | **Thursday, 28 May 2026  03:05 PM** | UTC+08:00 |
-| 🇳🇬 Nigeria | **Thursday, 28 May 2026  08:05 AM** | UTC+01:00 |
+| 🇳🇵 Nepal | **Friday, 29 May 2026  12:50 PM** | UTC+05:45 |
+| 🇮🇳 India | **Friday, 29 May 2026  12:35 PM** | UTC+05:30 |
+| 🇦🇺 Australia | **Friday, 29 May 2026  05:05 PM** | UTC+10:00 |
+| 🇺🇸 United States | **Friday, 29 May 2026  03:05 AM** | UTC-04:00 |
+| 🇵🇭 Philippines | **Friday, 29 May 2026  03:05 PM** | UTC+08:00 |
+| 🇳🇬 Nigeria | **Friday, 29 May 2026  08:05 AM** | UTC+01:00 |
 
 ---
 
@@ -31,10 +31,10 @@
 
 ## 💬 Quote of the Day
 
-> *"Spread love everywhere you go."*
+> *"When you reach the end of your rope, tie a knot in it and hang on."*
 >
-> — **Mother Teresa**
+> — **Franklin D. Roosevelt**
 
 ---
 
-<sub>⏰ Auto-updated every day at **9:00 AM IST** · Last run: 28 May 2026, 07:05 UTC</sub>
+<sub>⏰ Auto-updated every day at **9:00 AM IST** · Last run: 29 May 2026, 07:05 UTC</sub>
