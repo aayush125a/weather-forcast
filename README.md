@@ -1,6 +1,6 @@
 # 🕐 World Time Dashboard
 
-> 🌐 **UTC Time:** `2026-08-19 04:03:39 UTC`
+> 🌐 **UTC Time:** `2026-08-20 04:03:25 UTC`
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Country | Local Time | UTC Offset |
 |---------|-----------|------------|
-| 🇳🇵 Nepal | **Wednesday, 19 Aug 2026  09:48 AM** | UTC+05:45 |
-| 🇮🇳 India | **Wednesday, 19 Aug 2026  09:33 AM** | UTC+05:30 |
-| 🇦🇺 Australia | **Wednesday, 19 Aug 2026  02:03 PM** | UTC+10:00 |
-| 🇺🇸 United States | **Wednesday, 19 Aug 2026  12:03 AM** | UTC-04:00 |
-| 🇵🇭 Philippines | **Wednesday, 19 Aug 2026  12:03 PM** | UTC+08:00 |
-| 🇳🇬 Nigeria | **Wednesday, 19 Aug 2026  05:03 AM** | UTC+01:00 |
+| 🇳🇵 Nepal | **Thursday, 20 Aug 2026  09:48 AM** | UTC+05:45 |
+| 🇮🇳 India | **Thursday, 20 Aug 2026  09:33 AM** | UTC+05:30 |
+| 🇦🇺 Australia | **Thursday, 20 Aug 2026  02:03 PM** | UTC+10:00 |
+| 🇺🇸 United States | **Thursday, 20 Aug 2026  12:03 AM** | UTC-04:00 |
+| 🇵🇭 Philippines | **Thursday, 20 Aug 2026  12:03 PM** | UTC+08:00 |
+| 🇳🇬 Nigeria | **Thursday, 20 Aug 2026  05:03 AM** | UTC+01:00 |
 
 ---
 
@@ -31,10 +31,10 @@
 
 ## 💬 Quote of the Day
 
-> *"Believe you can and you're halfway there."*
+> *"It does not matter how slowly you go as long as you do not stop."*
 >
-> — **Theodore Roosevelt**
+> — **Confucius**
 
 ---
 
-<sub>⏰ Auto-updated every day at **9:00 AM IST** · Last run: 19 Aug 2026, 04:03 UTC</sub>
+<sub>⏰ Auto-updated every day at **9:00 AM IST** · Last run: 20 Aug 2026, 04:03 UTC</sub>
