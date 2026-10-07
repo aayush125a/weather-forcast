@@ -1,6 +1,6 @@
 # 🕐 World Time Dashboard
 
-> 🌐 **UTC Time:** `2026-10-06 10:33:28 UTC`
+> 🌐 **UTC Time:** `2026-10-07 10:25:07 UTC`
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Country | Local Time | UTC Offset |
 |---------|-----------|------------|
-| 🇳🇵 Nepal | **Tuesday, 06 Oct 2026  04:18 PM** | UTC+05:45 |
-| 🇮🇳 India | **Tuesday, 06 Oct 2026  04:03 PM** | UTC+05:30 |
-| 🇦🇺 Australia | **Tuesday, 06 Oct 2026  09:33 PM** | UTC+11:00 |
-| 🇺🇸 United States | **Tuesday, 06 Oct 2026  06:33 AM** | UTC-04:00 |
-| 🇵🇭 Philippines | **Tuesday, 06 Oct 2026  06:33 PM** | UTC+08:00 |
-| 🇳🇬 Nigeria | **Tuesday, 06 Oct 2026  11:33 AM** | UTC+01:00 |
+| 🇳🇵 Nepal | **Wednesday, 07 Oct 2026  04:10 PM** | UTC+05:45 |
+| 🇮🇳 India | **Wednesday, 07 Oct 2026  03:55 PM** | UTC+05:30 |
+| 🇦🇺 Australia | **Wednesday, 07 Oct 2026  09:25 PM** | UTC+11:00 |
+| 🇺🇸 United States | **Wednesday, 07 Oct 2026  06:25 AM** | UTC-04:00 |
+| 🇵🇭 Philippines | **Wednesday, 07 Oct 2026  06:25 PM** | UTC+08:00 |
+| 🇳🇬 Nigeria | **Wednesday, 07 Oct 2026  11:25 AM** | UTC+01:00 |
 
 ---
 
@@ -21,8 +21,8 @@
 
 | | Time |
 |---|---|
-| 🌐 UTC | `10:33 AM` |
-| 🇳🇵 Nepal (NPT) | `04:18 PM` |
+| 🌐 UTC | `10:25 AM` |
+| 🇳🇵 Nepal (NPT) | `04:10 PM` |
 | ⏩ Difference | Nepal is **5 hours 45 minutes ahead** of UTC |
 
 > 💡 **Fun fact:** Nepal is one of the few countries in the world with a **+5:45 offset** — a rare 45-minute timezone that sets it apart from all its neighbours!
@@ -31,10 +31,10 @@
 
 ## 💬 Quote of the Day
 
-> *"The secret of getting ahead is getting started."*
+> *"It always seems impossible until it's done."*
 >
-> — **Mark Twain**
+> — **Nelson Mandela**
 
 ---
 
-<sub>⏰ Auto-updated every day at **9:00 AM IST** · Last run: 06 Oct 2026, 10:33 UTC</sub>
+<sub>⏰ Auto-updated every day at **9:00 AM IST** · Last run: 07 Oct 2026, 10:25 UTC</sub>
